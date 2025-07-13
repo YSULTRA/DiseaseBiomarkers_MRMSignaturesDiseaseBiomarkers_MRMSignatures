@@ -2,6 +2,9 @@
 
 This repository contains Python scripts for developing a database of disease biomarkers and their Multiple Reaction Monitoring (MRM) signatures. The project focuses on extracting, processing, and analyzing biomarker data from scientific literature, storing it in MongoDB, and generating insights through exploratory data analysis (EDA).
 
+<img width="1432" height="1055" alt="image" src="https://github.com/user-attachments/assets/a30f2f9d-cad6-447e-b595-28e2a3271fb2" />
+
+
 ## Repository Overview
 
 The repository includes scripts to:
